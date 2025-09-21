@@ -74,7 +74,6 @@ Product changes are tracked using Django signals:
 See [app/.env](app/.env) for all configuration options.
 
 
-
 ## License
 
 MIT
