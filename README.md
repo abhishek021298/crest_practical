@@ -73,10 +73,7 @@ Product changes are tracked using Django signals:
 
 See [app/.env](app/.env) for all configuration options.
 
-## Documentation
 
-- Swagger UI: `/swagger/`
-- ReDoc: `/redoc/`
 
 ## License
 
